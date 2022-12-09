@@ -1,4 +1,1 @@
-<img
-  src="https://github.com/Akulla-A/Akulla-A/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akulla-A&count_private=true)
